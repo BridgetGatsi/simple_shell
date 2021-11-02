@@ -1,7 +1,6 @@
 #include "main.h"
 /**
  * makeprompt - displays a new prompt
- * @lesig: signal
  */
 void makeprompt(int lesig)
 {
